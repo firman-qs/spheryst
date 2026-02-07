@@ -5,7 +5,7 @@
   title: [Homework From My Teacher],
   course: [The Name of The Course This HW Belong To],
   doc_type: DocType.Homework,
-  doc_lang: Lang.Indonesia,
+  doc_lang: Lang.English,
   num_heading: true,
 )
 

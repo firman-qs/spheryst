@@ -3,6 +3,9 @@
 This is my personal typst template as a physics student. Currently, only
 homework document type were supported.
 
+> Typst is LaTeX but for cool kidds
+> Why i start using typst instead of LaTeX?, the language feel more intuitive
+
 ---
 
 ## Basic Usage
@@ -14,9 +17,11 @@ main typst file.
 #import "./lib.typ": * // import the template, that is the lib.typ file
 
 #show: template.with(
-  title: [Tugas Kuliah Pertemuan ke-1],
+  author: [Ezalor],
+  title: [Homework From My Teacher],
   course: [The Name of The Course This HW Belong To],
   doc_type: DocType.Homework,
+  doc_lang: Lang.English,
   num_heading: true,
   // for other available configuraion see the lib.typ
 )
