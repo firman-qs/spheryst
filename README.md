@@ -7,6 +7,13 @@ Report and Slide formats is planned.
 > Typst is LaTeX… but for the cool kids.
 > I started using Typst because the language feels far more intuitive and enjoyable than LaTeX while still being powerful (+rust btw). Compile time is a bonus.
 
+If you prefer LaTeX or want more complete academic templates, check out my other repositories:
+
+- [LaTeX Homework Template](https://github.com/firman-qs/template-repository)
+- [LaTeX Book Template](https://github.com/firman-qs/LaTex-book-template)
+
+These templates are more mature and feature-complete, while this Typst template is my newer, simpler, and more intuitive alternative for daily physics coursework.
+
 ---
 
 This template provide:
