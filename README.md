@@ -1,6 +1,6 @@
 # Spheryst
 
-Typst template designed for writing physics students homework. At the
+[Typst](https://typst.app/) template designed for writing physics students homework. At the
 moment, only the `Homework` document type is fully supported. Support for
 Report and Slide formats is planned.
 
