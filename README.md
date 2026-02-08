@@ -1,18 +1,30 @@
 # Spheryst
 
-[Typst](https://typst.app/) template designed for writing physics students homework. At the
-moment, only the `Homework` document type is fully supported. Support for
-Report and Slide formats is planned.
+![preview](typst-hw.png)
+
+[Typst](https://typst.app/) template designed for writing physics students
+homework. At the moment, only the `Homework` document type is fully supported.
+Support for Report and Slide formats is planned.
 
 > Typst is LaTeX… but for the cool kids.
-> I started using Typst because the language feels far more intuitive and enjoyable than LaTeX while still being powerful (+rust btw). Compile time is a bonus.
+> I started using Typst because the language feels far more intuitive and
+  enjoyable than LaTeX while still being powerful (+rust btw). Compile time is a
+  bonus.
 
-If you prefer LaTeX or want more complete academic templates, check out my other repositories:
+If you prefer LaTeX or want more complete academic templates, check out my other
+repositories:
 
-- [LaTeX Homework Template](https://github.com/firman-qs/template-repository)
-- [LaTeX Book Template](https://github.com/firman-qs/LaTex-book-template)
+- [LaTeX Book](https://github.com/firman-qs/LaTex-book-template)
+  Template
+![preview](latex-book.png)
 
-These templates are more mature and feature-complete, while this Typst template is my newer, simpler, and more intuitive alternative for daily physics coursework.
+- [LaTeX Homework](https://github.com/firman-qs/template-repository)
+  Template
+  ![preview](latex-hw.png)
+
+These templates are more mature and feature-complete, while this Typst template
+is my newer, simpler, and more intuitive alternative for daily physics
+coursework.
 
 ---
 
