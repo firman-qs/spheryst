@@ -56,4 +56,4 @@ Take a look at this simple, yet powerfull @tab:default
   )
 )<tab:default>
 
-#bibliography("ref.bib", full: true, title: "Referensi")
+#bibliography("ref.bib", full: true, title: "References")
